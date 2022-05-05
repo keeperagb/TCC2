@@ -22,7 +22,7 @@
       <div class="card-body">
         <h5 class="card-title">{{listaU.nome}}</h5>
         <p class="card-text">{{listaU.email}}</p>
-        <button class="btn btn-primary me-md-2" type="submit" @click="update">Editara</button>
+        <button class="btn btn-primary me-md-2" type="submit" @click="update">Editar</button>
         <button class="btn btn-primary me-md-2" type="submit" @click="remover">Excluir</button>
       </div>
     </div> 
